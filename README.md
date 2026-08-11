@@ -65,7 +65,8 @@ involving metabolic reprogramming, immune activation, altered renal epithelial f
 hypoxia/glycolytic adaptation, and oncogenic signaling. The identified hub genes represent 
 promising candidates for further investigation, although their network centrality does not 
 establish causal function and requires experimental validation.
-References
+
+# References
 1. Cancer Genome Atlas Research Network. Comprehensive molecular characterization of 
 clear cell renal cell carcinoma. Nature. 2013;499:43–49. doi:10.1038/nature12222. 
 2. Linehan WM, Ricketts CJ. The metabolic basis of kidney cancer. Seminars in Cancer 
